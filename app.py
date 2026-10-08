@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def inicio():
-    return "que rollo pa si sirve mi pagina web papi(hazme caso abril)"
+    return "que rollo pa si sirve mi pagina web papi (hazme caso abril 😞) "
